@@ -1,1 +1,3 @@
  secondline of resolve conflict 
+ make another resolve 
+ second makara another resolve 
