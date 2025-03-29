@@ -1,4 +1,11 @@
+ secondline of resolve conflict 
  make another resolve 
  second makara another resolve 
+
 makara-feture added 
  5555 makara branch
+
+ makara-feture worker who added this line
+ from Makara added
+ 7777 
+
